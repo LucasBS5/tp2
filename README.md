@@ -1,10 +1,10 @@
 # tp2
 
 Video 1:
-https://youtube.com/shorts/p4GY9wDtp4c
+https://youtu.be/i7Nl92rgq7M
 
 Video 2:
-https://youtu.be/i7Nl92rgq7M
+https://youtube.com/shorts/p4GY9wDtp4c
 
 Integrantes:
 Lucas Busnelli 91503/0
